@@ -15,5 +15,8 @@ This repository contains naive python implementation of various sorting algorith
 Some plots:
 
 * All algorithms
+![alt tag](https://raw.githubusercontent.com/Adarsh-Barik/SortComparison/master/image/lines_all.png)
 * Good algorithms
+![alt tag](https://raw.githubusercontent.com/Adarsh-Barik/SortComparison/master/image/bar_good.png)
 * Not so good algorithms 
+![alt tag](https://raw.githubusercontent.com/Adarsh-Barik/SortComparison/master/image/bar_bad.png)
